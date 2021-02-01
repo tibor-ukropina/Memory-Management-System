@@ -1,9 +1,3 @@
-/*
-Tibor Ukropina
-Student ID: 0961384
-Email: tukropin@uoguelph.ca
-*/
-
 #include <stdio.h>
 
 #define MAX_BLOCKS 4096
