@@ -1,9 +1,3 @@
- /*
-Tibor Ukropina
-Student ID: 0961384
-Email: tukropin@uoguelph.ca
-*/
-
 struct ds_file_struct ds_file; /* Holds file pointer and the header */
 struct ds_counts_struct ds_counts; /* Holds amount of read and write operations */
 
