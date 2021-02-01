@@ -1,9 +1,3 @@
-/*
-Tibor Ukropina
-Student ID: 0961384
-Email: tukropin@uoguelph.ca
-*/
-
 #include <stdio.h>
 #include <stdlib.h>
 #include "ds_array.h"
