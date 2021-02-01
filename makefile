@@ -18,8 +18,8 @@ ds_array.o: ds_array.c ds_array.h
 ds_list.o: ds_list.c ds_list.h
 	$(CC) $(CFLAGS) -c ds_list.c -o ds_list.o
 
-clean:
-	$(RM) ds_memory *.o *~
+clean :
+	-rm *.o $(objects) ds_list ds_array arraytester listtester
 
 run:
 	./main
