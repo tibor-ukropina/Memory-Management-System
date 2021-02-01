@@ -1,9 +1,3 @@
-/*
-Tibor Ukropina
-Student ID: 0961384
-Email: tukropin@uoguelph.ca
-*/
-
 #define MAX_ELEMENTS 256
 
 long elements;
