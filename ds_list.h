@@ -1,9 +1,3 @@
-/*
-Tibor Ukropina
-Student ID: 0961384
-Email: tukropin@uoguelph.ca
-*/
-
 struct ds_list_item_struct {
     int item;
     long next;
